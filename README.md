@@ -14,3 +14,8 @@ Used the .info() method to get the information about the dataset
 
 The dataset has 8 columns and 6162 rows
 <img width="855" alt="Screenshot 2023-03-10 224020" src="https://user-images.githubusercontent.com/64789117/224412454-df6d0641-7799-493d-97dd-dee67b92364a.png">
+
+Airlines in United States
+
+
+<img width="607" alt="Screenshot 2023-03-13 212236" src="https://user-images.githubusercontent.com/64789117/224794891-41bb8b4e-ce2d-4a29-b1ce-7bcc342e99e9.png">
